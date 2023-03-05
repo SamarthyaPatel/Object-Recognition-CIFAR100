@@ -1,6 +1,6 @@
 # Object-Recognition
-
 ### Coursework for Big Data and Machine Learning Module.
+
 
 Implementation of <strong>K-Means</strong>, <strong>Artificial Neural Network (ANN)</strong>, and <strong>Convolutional Neural Network (CNN)</strong> to develop Object Recognition model for classification.
 
