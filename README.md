@@ -4,6 +4,7 @@
 
 Implementation of <strong>K-Means</strong>, <strong>Artificial Neural Network (ANN)</strong>, and <strong>Convolutional Neural Network (CNN)</strong> to develop Object Recognition model for classification.
 
+
 <strong>Problem description: Object Classification in an image</strong>
 
 <img src="https://user-images.githubusercontent.com/86912122/222983448-181cf4bc-3e8b-415b-9a0e-03df92815aec.jpg" height="400px"/>
